@@ -1,0 +1,25 @@
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\bin\Debug\DYRuntime.exe
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\bin\Debug\DYRuntime.pdb
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\MainWindow.baml
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\MainWindow.g.cs
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\App.g.cs
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\DYRuntime_MarkupCompile.cache
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\DYRuntime.g.resources
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\DYRuntime.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\DYRuntime.exe
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\DYRuntime.pdb
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\DYRuntime.csproj.GenerateResource.Cache
+H:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\DYRuntime.exe
+H:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\DYRuntime.pdb
+H:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\bin\Debug\DYRuntime.exe
+H:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\bin\Debug\DYRuntime.pdb
+H:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\DYRuntime.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\MainWindow.baml
+H:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\MainWindow.g.cs
+H:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\App.g.cs
+H:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\DYRuntime_MarkupCompile.cache
+H:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\DYRuntime.g.resources
+H:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\DYRuntime.Properties.Resources.resources
+H:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Debug\DYRuntime.csproj.GenerateResource.Cache
+C:\Users\jac\Desktop\DYRuntime\obj\x86\Debug\DYRuntime.exe
+C:\Users\jac\Desktop\DYRuntime\obj\x86\Debug\DYRuntime.pdb

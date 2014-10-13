@@ -1,0 +1,9 @@
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\bin\Release\DYRuntime.exe
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Release\MainWindow.baml
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Release\MainWindow.g.cs
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Release\App.g.cs
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Release\DYRuntime_MarkupCompile.cache
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Release\DYRuntime.g.resources
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Release\DYRuntime.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Release\DYRuntime.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\Projects\DYDining.Web\DYRuntime\obj\x86\Release\DYRuntime.exe
